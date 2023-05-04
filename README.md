@@ -1,1 +1,1 @@
-# HIVE_UnityClass
+# 유니티 자격증을 따 보아요
